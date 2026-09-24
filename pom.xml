@@ -32,7 +32,7 @@
   
   <groupId>org.codehaus.mojo</groupId>
   <artifactId>ounce-maven-plugin</artifactId>
-  <version>1.6.4-SNAPSHOT</version>
+  <version>1.6.3</version>
   <packaging>maven-plugin</packaging>
 
   <name>Ounce Maven Plugin</name>
